@@ -1,0 +1,22 @@
+@media (min-width: 768px){
+	.profile .pro-pic img{
+		width: 40%;
+	}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px){
+	.profile .pro-pic img{
+		width: 25%;
+	}
+}
+.number-input{
+	width:50px !important;
+}

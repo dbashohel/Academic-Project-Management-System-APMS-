@@ -1,0 +1,34 @@
+/*
+Font Face
+*/
+@font-face {font-family:"Ubuntu";
+src:url("../fonts/ubuntu/Ubuntu-Regular.eot?") format("eot"),
+    url("../fonts/ubuntu/Ubuntu-Regular.woff") format("woff"),
+    url("../fonts/ubuntu/Ubuntu-Regular.ttf") format("truetype"),
+    url("../fonts/ubuntu/Ubuntu-Regular.svg#Ubuntu") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {font-family:"Lato Light";
+    src:url("../fonts/latolight/Lato-Light.eot?") format("eot"),
+    url("../fonts/latolight/Lato-Light.woff") format("woff"),
+    url("../fonts/latolight/Lato-Light.ttf") format("truetype"),
+    url("../fonts/latolight/Lato-Light.svg#Lato-Light") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face {font-family:"Lato Black";
+src:url("../fonts/latoblack/Lato-Black.eot?") format("eot"),
+    url("../fonts/latoblack/Lato-Black.woff") format("woff"),
+    url("../fonts/latoblack/Lato-Black.ttf") format("truetype"),
+    url("../fonts/latoblack/Lato-Black.svg#Lato-Black") format("svg");
+    font-weight:normal;font-style:normal;
+}
+@font-face {font-family:"Ubuntu Light";
+    src:url("../fonts/ubuntulight/Ubuntu-Light.eot?") format("eot"),
+    url("../fonts/ubuntulight/Ubuntu-Light.woff") format("woff"),
+    url("../fonts/ubuntulight/Ubuntu-Light.ttf") format("truetype"),
+    url("../fonts/ubuntulight/Ubuntu-Light.svg#Ubuntu-Light") format("svg");
+    font-weight:normal;
+    font-style:normal;
+}
